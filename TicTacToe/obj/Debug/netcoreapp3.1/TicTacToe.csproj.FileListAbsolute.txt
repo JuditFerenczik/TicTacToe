@@ -1,0 +1,13 @@
+C:\Judit\Programozás\szoftverfejlesztő\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Judit\Programozás\szoftverfejlesztő\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Judit\Programozás\szoftverfejlesztő\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Judit\Programozás\szoftverfejlesztő\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Judit\Programozás\szoftverfejlesztő\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Judit\Programozás\szoftverfejlesztő\C#\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Judit\Programozás\szoftverfejlesztő\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\Judit\Programozás\szoftverfejlesztő\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Judit\Programozás\szoftverfejlesztő\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Judit\Programozás\szoftverfejlesztő\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Judit\Programozás\szoftverfejlesztő\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Judit\Programozás\szoftverfejlesztő\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Judit\Programozás\szoftverfejlesztő\C#\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
